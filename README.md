@@ -28,5 +28,4 @@ A simple Hotel Management System using **Java (Servlets)** and **HTML/CSS**, wit
 - `BookingServlet.java`: Handles bookings
 - `hotel.sql`: DB script
 
- Author
-Garima Yadav
+
